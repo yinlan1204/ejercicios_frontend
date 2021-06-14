@@ -1,0 +1,13 @@
+
+h1{
+    color:chartreuse;
+}
+header{
+    background: pink;
+    color: black;
+}
+header div{
+    background:white;
+    color: black;
+    font-size: 35px;
+}
